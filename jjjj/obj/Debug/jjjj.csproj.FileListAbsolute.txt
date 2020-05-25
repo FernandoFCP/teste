@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\bin\Debug\jjjj.exe.config
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\bin\Debug\jjjj.exe
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\bin\Debug\jjjj.pdb
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\obj\Debug\jjjj.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\obj\Debug\jjjj.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\obj\Debug\jjjj.exe
+C:\Users\ASUS\Desktop\Udemy\Git\jjjj\jjjj\obj\Debug\jjjj.pdb
